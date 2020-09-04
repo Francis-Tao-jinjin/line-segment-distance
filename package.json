@@ -1,6 +1,6 @@
 {
   "name": "line-segment-distance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a methods to compute line to line, line to segment and segment to segment in 3D space",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,11 @@
   "keywords": [
     "geometry",
     "gl",
-    "line distance",
+    "line to line distance",
+    "segment to segment distance",
+    "line to segment distance",
+    "line-segment-distance",
+    "segment distance",
     "3d"
   ],
   "author": "francis Tao jinjin",
