@@ -1,0 +1,6 @@
+# dependency
+node_modules
+
+# view config
+.DS_Store
+Desktop.ini
