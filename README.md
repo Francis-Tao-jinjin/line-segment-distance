@@ -2,6 +2,7 @@
 
 The method used in this library is from http://geomalgorithms.com/a07-_distance.html, go check out the website if you want to leearn more about geometry mathematic.
 
+`npm install line-segment-distance`
 ```javascript
 import {
     Line,
